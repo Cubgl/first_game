@@ -1,3 +1,6 @@
+def p():
+    pass
+
 def hello():
     print("Hello, World!")
     print('The Game: UFO')

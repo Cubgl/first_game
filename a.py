@@ -1,5 +1,5 @@
 def p():
-    pass
+    print('Неверное имя пользователя!')
 
 def hello():
     print("Hello, World!")
